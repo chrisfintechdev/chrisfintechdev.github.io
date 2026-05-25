@@ -1,3 +1,2 @@
 # chrisfintechdev.github.io
-Finance Projects
-Financial Technology Projects
+Finance Projects and Financial Technology Projects
