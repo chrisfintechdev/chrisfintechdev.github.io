@@ -1,4 +1,3 @@
 # chrisfintechdev.github.io
-AI Engineering Projects - 
-ML Engineering Projects - 
-Data Engineering Projects
+Finance Projects
+Financial Technology Projects
