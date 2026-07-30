@@ -1,2 +1,5 @@
 # chrisfintechdev.github.io
-Finance Projects
+Data Analyst Projects
+Financial Analyst Projects
+Business Analyst Projects
+Systems Analyst Projects
